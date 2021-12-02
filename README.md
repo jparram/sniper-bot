@@ -2,7 +2,7 @@
 
 With all of my bots you can find pre-compiled binaries in the dist folder. You should be able to run this bot anywhere (even mobile) without worrying about other dependencies.
 
-# All the variables possible values are explained below, PLEASE SET THE CORRECT VALUES OR ELSE THE BOT WON'T WORK. To start the bot please use the command "npm start" in the terminal.
+# All the variables possible values are explained below, PLEASE SET THE CORRECT VALUES OR ELSE THE BOT WON'T WORK.
 
 # GENERAL SETTINGS:
 
